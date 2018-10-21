@@ -69,6 +69,12 @@ For a better experience, using the following settings is recommended
 
 <br/><br/><br/><br/>
 [Download Icon](https://drive.google.com/uc?id=1IZLO0br_quw7O3Fd8dtrQjLjP3loK9J-&export=download)
+<br/><br/>
+
+- **Color Palette:** The base colors of the theme can be viewed in [`this`](https://coolors.co/d8dee9-99c794-c695c6-ec5f66-343d46) palette.  
+
+![Palette](https://coolors.co/export/png/d8dee9-99c794-c695c6-ec5f66-343d46)  
+For the rest of the colors, check out the hex codes in the Theme's xml file.
 <br/>
 
 ---
