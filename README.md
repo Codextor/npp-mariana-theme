@@ -75,6 +75,11 @@ For a better experience, using the following settings is recommended
 
 ![Palette](https://coolors.co/export/png/d8dee9-99c794-c695c6-ec5f66-343d46)  
 For the rest of the colors, check out the hex codes in the Theme's xml file.
+<br/><br/>
+
+- **Material Theme for Notepad++:** Try our other theme, inspired from the Material theme avaiable for Visual Studio Code and Sublime text. Get it [`HERE`](https://github.com/Codextor/npp-material-theme).  
+
+![ss](https://i.imgur.com/pmUKNUa.png)
 <br/>
 
 ---
