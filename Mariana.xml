@@ -4,8 +4,8 @@ Notepad++ Custom Style
 
  Style name:    Mariana
      Author:    Sandeep Pandey
-       Date:    2018-10-21 (last changed 2018-10-21)
-  Languages:    html, css, javascript, php, bash, batch, sql, xml, json and everything else more or less...
+       Date:    2018-10-21 (last changed 2018-11-01)
+  Languages:    html, css, javascript, php, bash, batch, sql, xml, json, python and everything else more or less...
        Info:    Mariana - Sublime Text 3 theme for Notepad++
 				Inspired by the Sublime Text 3's Mariana theme, derived from the excellent work of Chris Kempson and Dmitri Voronianski
 -->
@@ -934,14 +934,14 @@ Notepad++ Custom Style
 			<WordsStyle name="STRING" styleID="3" fgColor="99C794" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
 			<WordsStyle name="CHARACTER" styleID="4" fgColor="99C794" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
 			<WordsStyle name="KEYWORDS" styleID="5" fgColor="C695C6" bgColor="343D46" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
-			<WordsStyle name="TRIPLE" styleID="6" fgColor="FF8000" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
-			<WordsStyle name="TRIPLEDOUBLE" styleID="7" fgColor="FF8000" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
-			<WordsStyle name="CLASSNAME" styleID="8" fgColor="D8DEE9" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
-			<WordsStyle name="DEFNAME" styleID="9" fgColor="FF00FF" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
+			<WordsStyle name="TRIPLE" styleID="6" fgColor="A6ACB9" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
+			<WordsStyle name="TRIPLEDOUBLE" styleID="7" fgColor="A6ACB9" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
+			<WordsStyle name="CLASSNAME" styleID="8" fgColor="F9AE58" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
+			<WordsStyle name="DEFNAME" styleID="9" fgColor="6699CC" bgColor="343D46" fontName="" fontStyle="2" fontSize="" />
 			<WordsStyle name="OPERATOR" styleID="10" fgColor="D8DEE9" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
 			<WordsStyle name="IDENTIFIER" styleID="11" fgColor="D8DEE9" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
 			<WordsStyle name="COMMENTBLOCK" styleID="12" fgColor="A6ACB9" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
-			<WordsStyle name="DECORATOR" styleID="15" fgColor="FF8000" bgColor="343D46" fontName="" fontStyle="2" fontSize="" />
+			<WordsStyle name="DECORATOR" styleID="15" fgColor="6699CC" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
 		</LexerType>
 		<LexerType name="r" desc="R" ext="">
 			<WordsStyle name="DEFAULT" styleID="0" fgColor="D8DEE9" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
