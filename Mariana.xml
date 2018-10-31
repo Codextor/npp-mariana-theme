@@ -570,10 +570,10 @@ Notepad++ Custom Style
 			<WordsStyle name="GARBAGE" styleID="18" fgColor="D8DEE9" bgColor="343D46" fontName="" fontStyle="2" fontSize="" />
 		</LexerType>
 		<LexerType name="java" desc="Java" ext="">
-			<WordsStyle name="PREPROCESSOR" styleID="9" fgColor="EC5F66" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
+			<WordsStyle name="PREPROCESSOR" styleID="9" fgColor="D8DEE9" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
 			<WordsStyle name="DEFAULT" styleID="11" fgColor="D8DEE9" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
 			<WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="C695C6" bgColor="343D46" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
-			<WordsStyle name="TYPE WORD" styleID="16" fgColor="EC5F66" bgColor="343D46" fontName="" fontStyle="2" fontSize="" keywordClass="type1" />
+			<WordsStyle name="TYPE WORD" styleID="16" fgColor="C695C6" bgColor="343D46" fontName="" fontStyle="2" fontSize="" keywordClass="type1" />
 			<WordsStyle name="NUMBER" styleID="4" fgColor="F9AE58" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
 			<WordsStyle name="STRING" styleID="6" fgColor="99C794" bgColor="343D46" fontName="" fontStyle="0" fontSize="">True False</WordsStyle>
 			<WordsStyle name="CHARACTER" styleID="7" fgColor="99C794" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
