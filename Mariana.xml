@@ -5,7 +5,7 @@ Notepad++ Custom Style
  Style name:    Mariana
      Author:    Sandeep Pandey
        Date:    2018-10-21 (last changed 2018-11-01)
-  Languages:    html, css, javascript, php, bash, batch, sql, xml, json, python and everything else more or less...
+  Languages:    html, css, javascript, php, bash, batch, sql, xml, json, python, java, c++ and everything else more or less...
        Info:    Mariana - Sublime Text 3 theme for Notepad++
 				Inspired by the Sublime Text 3's Mariana theme, derived from the excellent work of Chris Kempson and Dmitri Voronianski
 -->
@@ -193,7 +193,7 @@ Notepad++ Custom Style
 			<WordsStyle name="PREPROCESSOR COMMENT DOC" styleID="24" fgColor="A6ACB9" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
 		</LexerType>
 		<LexerType name="cpp" desc="C++" ext="">
-			<WordsStyle name="PREPROCESSOR" styleID="9" fgColor="EC5F66" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
+			<WordsStyle name="PREPROCESSOR" styleID="9" fgColor="6699CC" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
 			<WordsStyle name="DEFAULT" styleID="11" fgColor="D8DEE9" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
 			<WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="C695C6" bgColor="343D46" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
 			<WordsStyle name="TYPE WORD" styleID="16" fgColor="C695C6" bgColor="343D46" fontName="" fontStyle="2" fontSize="" keywordClass="type1" />
