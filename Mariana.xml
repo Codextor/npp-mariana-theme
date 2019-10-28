@@ -4,8 +4,8 @@ Notepad++ Custom Style
 
  Style name:    Mariana
      Author:    Sandeep Pandey
-       Date:    2018-10-21 (last changed 2018-11-01)
-  Languages:    html, css, javascript, php, bash, batch, sql, xml, json, python, java, c++, csharp and everything else more or less...
+       Date:    2018-10-21 (last changed 2019-10-28)
+  Languages:    html, css, javascript, php, bash, batch, sql, xml, json, python, java, c++, csharp, yaml and everything else more or less...
        Info:    Mariana - Sublime Text 3 theme for Notepad++
 				Inspired by the Sublime Text 3's Mariana theme, derived from the excellent work of Chris Kempson and Dmitri Voronianski
 -->
@@ -1328,14 +1328,14 @@ Notepad++ Custom Style
 		</LexerType>
 		<LexerType name="yaml" desc="YAML" ext="">
 			<WordsStyle name="DEFAULT" styleID="0" fgColor="D8DEE9" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
-			<WordsStyle name="IDENTIFIER" styleID="2" fgColor="000080" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
-			<WordsStyle name="COMMENT" styleID="1" fgColor="A6ACB9" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
-			<WordsStyle name="INSTRUCTION WORD" styleID="3" fgColor="C695C6" bgColor="343D46" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
-			<WordsStyle name="NUMBER" styleID="4" fgColor="F9AE58" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
-			<WordsStyle name="REFERENCE" styleID="5" fgColor="804000" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
-			<WordsStyle name="DOCUMENT" styleID="6" fgColor="0000FF" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
-			<WordsStyle name="TEXT" styleID="7" fgColor="808080" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
-			<WordsStyle name="ERROR" styleID="8" fgColor="FF0000" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="IDENTIFIER" styleID="2" fgColor="5FB4B4" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="A6ACB9" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="INSTRUCTION WORD" styleID="3" fgColor="EC5F66" bgColor="343D46" fontName="" fontStyle="2" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="F9AE58" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="REFERENCE" styleID="5" fgColor="F9AE58" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="DOCUMENT" styleID="6" fgColor="A6ACB9" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="TEXT" styleID="7" fgColor="D8DEE9" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="ERROR" styleID="8" fgColor="EC5F66" bgColor="343D46" fontName="" fontStyle="0" fontSize="" />
 		</LexerType>
 		<LexerType name="searchResult" desc="Search result" ext="">
 			<WordsStyle name="Search Header" styleID="1" fgColor="000080" bgColor="BBBBFF" fontName="" fontStyle="0" fontSize="" />
