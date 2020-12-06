@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/HiSandy/npp-material-theme"><img width="240px" src="https://i.imgur.com/4flFIjK.png"/></a></p>
 
-# Mariana - Sublime Text 3 theme for Notepad++
+# Mariana - Sublime Text 3 dark theme for Notepad++
 
 Sublime Text's epic theme meets Notepad++.
 
